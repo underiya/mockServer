@@ -313,37 +313,15 @@
       "description": "For those on the East Coast, a visit to Acadia National Park is always a good idea, though it can be particularly special during the winter months when the crowds die down and the waves can be seen crashing against snow-covered shorelines."
     }
   ],
+  "bookings": [],
   "users": [
     {
+      "id": "1",
       "firstName": "admin",
-      "lastName": "a",
+      "lastName": "",
       "email": "admin@gmail.com",
-      "password": "admin123",
-      "id": "1"
-    },
-    {
-      "id": "90a5",
-      "email": "admin@gmail.com",
-      "password": "admin123",
-      "title": "ffawilfdya"
-    },
-    {
-      "id": "6cb9",
-      "email": "admin@gmail.com",
-      "password": "admin123",
-      "title": "abc"
-    },
-    {
-      "id": "f5fa",
-      "email": "admin@gmail.com",
-      "password": "admin123",
-      "title": "abc"
-    },
-    {
-      "id": "38e6",
-      "email": "admin@gmail.com",
-      "password": "admin123",
-      "title": "abc"
+      "password": "admin123"      
     }
   ]
+  
 }

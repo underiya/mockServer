@@ -1,10 +1,20 @@
-GET http://localhost:3000/users
+GET http://localhost:3000/bookings
 ###
-POST http://localhost:3000/users
+POST http://localhost:3000/bookings
 Content-Type: application/json
 
 {
    "email": "admin@gmail.com",
     "password": "admin123",
     "title": "abc"   
+}
+###
+GET https://mockserver-3.onrender.com/users
+###
+POST https://mockserver-3.onrender.com/users
+Content-Type: application/json
+
+{   
+    "name": "xyz",
+
 }
